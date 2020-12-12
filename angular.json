@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "classroom-ui"
+  "defaultProject": "classroom-ui",
+  "cli": {
+    "analytics": "4d55b679-c7c4-458e-be77-4e9522ab7038"
+  }
 }
